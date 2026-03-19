@@ -1,0 +1,5 @@
+# Auto-generated requirements.txt
+requests
+python-dotenv
+asyncio
+aiohttp
